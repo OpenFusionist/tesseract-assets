@@ -1,0 +1,31 @@
+{
+    "name": "Tesseract Token",
+    "timestamp": "2024-03-15T15:09:20.600Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://cdn.jsdelivr.net/gh/tesseract-world/assets@master/wace.png",
+    "keywords": [
+        "tesseract"
+    ],
+    "tokens": [
+        {
+            "name": "aceUSD",
+            "symbol": "aceUSD",
+            "address": "0x853e38D0B35D2df54d3d91c210b7BD7749d614E8",
+            "chainId": 648,
+            "decimals": 18,
+            "logoURI": "https://cdn.jsdelivr.net/gh/tesseract-world/assets@master/aceusd.png"
+        },
+        {
+            "name": "Wrapped ACE",
+            "symbol": "WACE",
+            "address": "0x85119527CF38f6cCf7b1b8f8FAD05145358Aaa81",
+            "chainId": 648,
+            "decimals": 18,
+            "logoURI": "https://cdn.jsdelivr.net/gh/tesseract-world/assets@master/wace.png"
+        }
+    ]
+}
